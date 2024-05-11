@@ -18,14 +18,19 @@ Actualmente, estoy inmerso en el desarrollo de mi proyecto final como parte de m
 
 Mi experiencia como programador Front-End en Trigenius.pt fue fundamental para mi desarrollo profesional. Durante mi estancia, tuve la oportunidad de trabajar en proyectos desafiantes y colaborar con un equipo multidisciplinario. Esta experiencia me ha brindado una comprensión más profunda del desarrollo web y me ha preparado para los desafíos futuros.
 
+## Formación en Centros de Trabajo (FCT)
+
+Actualmente, estoy realizando mi FCT en [LaPrimera.net Agencia](https://laprimera.net/), donde estoy adquiriendo experiencia práctica en el campo de la administración de sistemas informáticos en red.
+
 ## Conocimientos Adicionales
 
-Además de mis habilidades en desarrollo web, también tengo conocimientos en SASS, MySQL, Kotlin, Java y C++, obtenidos a través de mi formación en ASIR y cursos complementarios.
+Además de mis habilidades en desarrollo web, también tengo conocimientos en MySQL, Kotlin y SASS, obtenidos a través de mi formación en ASIR y cursos complementarios.
 
 ## Contacto
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si deseas contactarme, puedes hacerlo a través de [mi correo electrónico](mailto:sergiotrillorodriguez123@gmail.com) o visitar [mi perfil de LinkedIn](https://www.linkedin.com/in/sergiitr11). Estoy deseando conectar contigo.
 
 ¡Gracias por visitar mi GitHub! Espero que encuentres útiles mis proyectos y contribuciones. 😊
+
 
 
