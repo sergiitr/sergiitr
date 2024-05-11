@@ -20,7 +20,8 @@ Mi experiencia como programador Front-End en Trigenius.pt fue fundamental para m
 
 ## Formación en Centros de Trabajo (FCT)
 
-Actualmente, estoy realizando mi FCT en [LaPrimera.net Agencia](https://laprimera.net/), donde estoy adquiriendo experiencia práctica en el campo de la administración de sistemas informáticos en red.
+Actualmente, estoy realizando mi FCT en [LaPrimera.net Agencia](https://laprimera.net/), donde estoy adquiriendo experiencia práctica centrándome especialmente en SEO local y el desarrollo de páginas web tanto con WordPress como con Google Sites.
+
 
 ## Conocimientos Adicionales
 
@@ -31,6 +32,3 @@ Además de mis habilidades en desarrollo web, también tengo conocimientos en My
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si deseas contactarme, puedes hacerlo a través de [mi correo electrónico](mailto:sergiotrillorodriguez123@gmail.com) o visitar [mi perfil de LinkedIn](https://www.linkedin.com/in/sergiitr11). Estoy deseando conectar contigo.
 
 ¡Gracias por visitar mi GitHub! Espero que encuentres útiles mis proyectos y contribuciones. 😊
-
-
-
