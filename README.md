@@ -6,7 +6,7 @@
 
 - 🎓 Estudiante de FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).
 - 📍 Ubicación: Úbeda, España.
-- 💼 Experiencia: 3 meses como programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y 4 meses como Analista de Posicionamiento Web en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT, donde he adquiriendo experiencia práctica centrándome especialmente en SEO local y el desarrollo de páginas web tanto con WordPress como con Google Sites.
+- 💼 Experiencia: 3 meses como programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y 4 meses como Analista de Posicionamiento Web en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT.
 - 🌱 Conocimientos: HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
 - 🚀 En constante aprendizaje y buscando oportunidades para crecer como profesional en el campo de la tecnología.
 
@@ -17,6 +17,10 @@ En junio del 2024, acabé el desarrollo de mi proyecto final como parte de mi fo
 ## Experiencia Profesional
 
 Mi experiencia como programador Front-End en Trigenius.pt fue fundamental para mi desarrollo profesional. Durante mi estancia, tuve la oportunidad de trabajar en proyectos desafiantes y colaborar con un equipo multidisciplinario. Esta experiencia me ha brindado una comprensión más profunda del desarrollo web y me ha preparado para los desafíos futuros.
+
+Recientemente, finalicé mi Formación en Centros de Trabajo (FCT) en LaPrimera.net Agencia (https://laprimera.net/). Durante este periodo, adquirí experiencia práctica en SEO local y desarrollo de páginas web tanto con WordPress como con Google Sites. Esta experiencia ha ampliado significativamente mis conocimientos y habilidades en áreas clave del desarrollo web.
+
+
 
 ## Conocimientos Adicionales
 
