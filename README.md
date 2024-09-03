@@ -1,6 +1,6 @@
 # ¡Bienvenido a mi GitHub! 👋
 
-¡Hola! Soy Sergio, un entusiasta de la tecnología y estudiante de FP de grado superior en Administración de Sistemas Informáticos en Red (ASIR) en el [IES Los Cerros](https://loscerros.org/) de Úbeda. Estoy emocionado de compartir mi viaje de aprendizaje y desarrollo con la comunidad de GitHub.
+¡Hola! Soy Sergio, un entusiasta de la tecnología y recien titulado del FP en Administración de Sistemas Informáticos en Red (ASIR) en el [IES Los Cerros](https://loscerros.org/) de Úbeda. Estoy emocionado de compartir mi viaje de aprendizaje y desarrollo con la comunidad de GitHub.
 
 ## Sobre mí
 
