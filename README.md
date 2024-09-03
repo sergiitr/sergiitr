@@ -16,9 +16,9 @@ En junio del 2024, acabé el desarrollo de mi proyecto final como parte de mi fo
 
 ## Experiencia Profesional
 
-Mi experiencia como programador Front-End en Trigenius.pt fue fundamental para mi desarrollo profesional. Durante mi estancia, tuve la oportunidad de trabajar en proyectos desafiantes y colaborar con un equipo multidisciplinario. Esta experiencia me ha brindado una comprensión más profunda del desarrollo web y me ha preparado para los desafíos futuros.
+Mi experiencia como programador Front-End en [Trigenius.pt](https://trigenius.pt/) fue fundamental para mi desarrollo profesional. Durante mi estancia, tuve la oportunidad de trabajar en proyectos desafiantes y colaborar con un equipo multidisciplinario. Esta experiencia me ha brindado una comprensión más profunda del desarrollo web y me ha preparado para los desafíos futuros.
 
-Recientemente, finalicé mi Formación en Centros de Trabajo (FCT) en LaPrimera.net Agencia (https://laprimera.net/). Durante este periodo, adquirí experiencia práctica en SEO local y desarrollo de páginas web tanto con WordPress como con Google Sites. Esta experiencia ha ampliado significativamente mis conocimientos y habilidades en áreas clave del desarrollo web.
+Recientemente, finalicé mi Formación en Centros de Trabajo (FCT) en [LaPrimera.net Agencia](https://laprimera.net/). Durante este periodo, adquirí experiencia práctica en SEO local y desarrollo de páginas web tanto con WordPress como con Google Sites. Esta experiencia ha ampliado significativamente mis conocimientos y habilidades en áreas clave del desarrollo web.
 
 
 
