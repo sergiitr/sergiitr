@@ -12,7 +12,7 @@
 
 ## Proyecto en Curso
 
-Actualmente, estoy inmerso en el desarrollo de mi proyecto final como parte de mi formación en ASIR. Este proyecto, alojado en el siguiente directorio [sergiitrgames.com.es](https://sergiitrgames.com.es/), es un escaparate de mis habilidades y conocimientos en el desarrollo web. Estoy emocionado de compartir más detalles una vez que esté completo.
+En junio del 2024, acabé el desarrollo de mi proyecto final como parte de mi formación en ASIR. Este proyecto, alojado en el siguiente directorio [sergiitrgames.com.es](https://sergiitrgames.com.es/), es un escaparate de mis habilidades y conocimientos en el desarrollo web. Estoy emocionado de compartir más detalles una vez que esté completo.
 
 ## Experiencia Profesional
 
