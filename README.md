@@ -4,10 +4,10 @@
 
 ## Sobre mí
 
-- 🎓 Estudiante de FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).
 - 📍 Ubicación: Úbeda, España.
+- 🎓 FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).
 - 💼 Experiencia: 3 meses como programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y 4 meses como Analista de Posicionamiento Web en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT.
-- 🌱 Conocimientos: HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
+- 🌱 Conocimientos: Entre mis aptitudes caben destacar HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
 - 🚀 En constante aprendizaje y buscando oportunidades para crecer como profesional en el campo de la tecnología.
 
 ## Mis Proyectos
