@@ -6,22 +6,17 @@
 
 - 🎓 Estudiante de FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).
 - 📍 Ubicación: Úbeda, España.
-- 💼 Experiencia: 3 meses como programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus.
+- 💼 Experiencia: 3 meses como programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y 4 meses como Analista de Posicionamiento Web en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT, donde he adquiriendo experiencia práctica centrándome especialmente en SEO local y el desarrollo de páginas web tanto con WordPress como con Google Sites.
 - 🌱 Conocimientos: HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
 - 🚀 En constante aprendizaje y buscando oportunidades para crecer como profesional en el campo de la tecnología.
 
-## Proyecto en Curso
+## Mis Proyectos
 
 En junio del 2024, acabé el desarrollo de mi proyecto final como parte de mi formación en ASIR. Este proyecto, alojado en el siguiente directorio [sergiitrgames.com.es](https://sergiitrgames.com.es/), es un escaparate de mis habilidades y conocimientos en el desarrollo web. Estoy emocionado de compartir más detalles una vez que esté completo.
 
 ## Experiencia Profesional
 
 Mi experiencia como programador Front-End en Trigenius.pt fue fundamental para mi desarrollo profesional. Durante mi estancia, tuve la oportunidad de trabajar en proyectos desafiantes y colaborar con un equipo multidisciplinario. Esta experiencia me ha brindado una comprensión más profunda del desarrollo web y me ha preparado para los desafíos futuros.
-
-## Formación en Centros de Trabajo (FCT)
-
-Actualmente, estoy realizando mi FCT en [LaPrimera.net Agencia](https://laprimera.net/), donde estoy adquiriendo experiencia práctica centrándome especialmente en SEO local y el desarrollo de páginas web tanto con WordPress como con Google Sites.
-
 
 ## Conocimientos Adicionales
 
