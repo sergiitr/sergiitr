@@ -27,6 +27,11 @@ Recientemente, finalicé mi Formación en Centros de Trabajo (FCT) en [LaPrimera
 
 Además de mis habilidades en desarrollo web, también tengo conocimientos en MySQL, Kotlin y SASS, obtenidos a través de mi formación en ASIR y cursos complementarios.
 
+## Reconocimientos y Premios
+
+- 🏆 **Campeón Provincial Escolar Jaén sub 16 - Ajedrez**  
+  Expedida por la Delegación Jiennense de Ajedrez · feb. 2016
+
 ## Contacto
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si deseas contactarme, puedes hacerlo a través de [mi correo electrónico](mailto:sergiotrillorodriguez123@gmail.com) o visitar [mi perfil de LinkedIn](https://www.linkedin.com/in/sergiitr11). Estoy deseando conectar contigo.
