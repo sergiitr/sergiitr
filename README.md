@@ -1,11 +1,12 @@
 # ¡Bienvenido a mi GitHub! 👋
 
-¡Hola! Soy Sergio, un entusiasta de la tecnología y recien titulado del FP en Administración de Sistemas Informáticos en Red (ASIR) en el [IES Los Cerros](https://loscerros.org/) de Úbeda. Estoy emocionado de compartir mi viaje de aprendizaje y desarrollo con la comunidad de GitHub.
+¡Hola! Soy Sergio, estudiante de FP de Diseño de Aplicaciones Multiplataforma (DAM) en el [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) de Jaén y recien titulado del FP en Administración de Sistemas Informáticos en Red (ASIR) en el [IES Los Cerros](https://loscerros.org/) de Úbeda. Estoy emocionado de compartir mi viaje de aprendizaje y desarrollo con la comunidad de GitHub.
 
 ## Sobre mí
 
 - 📍 Ubicación: Úbeda, España.
-- 🎓 FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).
+- 🎓 Titulado FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).
+- 🎓 Estudiante FP de Grado Superior en Diseño Aplicaciones Multiplataforma (DAM).
 - 💼 Experiencia: 3 meses como programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y 4 meses como Analista de Posicionamiento Web en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT.
 - 🌱 Conocimientos: Entre mis aptitudes caben destacar HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
 - 🚀 En constante aprendizaje y buscando oportunidades para crecer como profesional en el campo de la tecnología.
