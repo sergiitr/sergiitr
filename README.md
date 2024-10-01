@@ -5,15 +5,17 @@
 ## Sobre mí
 
 - 📍 Ubicación: Úbeda, España.
-- 🎓 Titulado FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).
-- 🎓 Estudiante FP de Grado Superior en Diseño Aplicaciones Multiplataforma (DAM).
+- 🎓 Educación: Titulado en FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR) y estudiante de FP de Grado Superior en Diseño de Aplicaciones Multiplataforma (DAM).
 - 💼 Experiencia: 3 meses como programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y 4 meses como Analista de Posicionamiento Web en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT.
-- 🌱 Conocimientos: Entre mis aptitudes caben destacar HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
+- 🌱 Conocimientos Técnicos: Destaco habilidades en HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
 - 🚀 En constante aprendizaje y buscando oportunidades para crecer como profesional en el campo de la tecnología.
 
 ## Mis Proyectos
 
-En junio del 2024, acabé el desarrollo de mi proyecto final como parte de mi formación en ASIR. Este proyecto, alojado en el siguiente directorio [sergiitrgames.com.es](https://sergiitrgames.com.es/), es un escaparate de mis habilidades y conocimientos en el desarrollo web. Estoy emocionado de compartir más detalles una vez que esté completo.
+En junio del 2024, acabé el desarrollo de mi proyecto final como parte de mi formación en ASIR. Este proyecto, alojado en el siguiente directorio [sergiitrgames.com.es](https://sergiitrgames.com.es/), es un escaparate de mis habilidades y conocimientos en el desarrollo web. 
+A lo largo de este trabajo, he aplicado diversas técnicas y herramientas adquiridas durante mi formación, incluyendo HTML5, CSS3, JavaScript y PHP junto con el framework Bootstrap5, así como la gestión de bases de datos MySQL. Cada uno de estos elementos ha sido fundamental para el desarrollo de una plataforma funcional y estéticamente atractiva.
+
+
 
 ## Experiencia Profesional
 
@@ -25,7 +27,7 @@ Recientemente, finalicé mi Formación en Centros de Trabajo (FCT) en [LaPrimera
 
 ## Conocimientos Adicionales
 
-Además de mis habilidades en desarrollo web, también tengo conocimientos en MySQL, Kotlin y SASS, obtenidos a través de mi formación en ASIR y cursos complementarios.
+Además de mis habilidades en desarrollo web y las adquiridas de mi formación en ASIR, también tengo conocimientos en Kotlin y SASS, obtenidos a través cursos complementarios.
 
 ## Reconocimientos y Premios
 
