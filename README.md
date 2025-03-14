@@ -6,7 +6,7 @@
 
 - 📍 Ubicación: Úbeda, España.
 - 🎓 Educación: Titulado en FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR) y estudiante de 1er año de FP de Grado Superior en Diseño de Aplicaciones Multiplataforma (DAM).
-- 💼 Experiencia: Programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y Analista de Posicionamiento Web en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT.
+- 💼 Experiencia: Programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y Analista de Posicionamiento Web tanto en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT como en [DEDITEC Desarrollos Digitales y Tecnológicos](https://deditec.es/).
 - 🌱 Conocimientos Técnicos: Destaco habilidades en HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
 - 🚀 En constante aprendizaje y buscando oportunidades para crecer como profesional en el campo de la tecnología.
 
@@ -21,7 +21,9 @@ A lo largo de este trabajo, he aplicado diversas técnicas y herramientas adquir
 
 Mi experiencia como programador Front-End en [Trigenius.pt](https://trigenius.pt/) fue fundamental para mi desarrollo profesional. Durante mi estancia de 3 meses durante el verano del 2023, tuve la oportunidad de trabajar en proyectos desafiantes y colaborar con un equipo multidisciplinario. Esta experiencia me ha brindado una comprensión más profunda del desarrollo web y me ha preparado para los desafíos futuros.
 
-En junio de 2024, finalicé mi Formación en Centros de Trabajo (FCT) en [LaPrimera.net Agencia](https://laprimera.net/). Durante este periodo de 4 meses, adquirí experiencia práctica en SEO local y desarrollo de páginas web tanto con WordPress como con Google Sites. Esta experiencia ha ampliado significativamente mis conocimientos y habilidades en áreas clave del desarrollo web.
+De marzo a junio de 2024, realicçe mi Formación en Centros de Trabajo (FCT) en [LaPrimera.net Agencia](https://laprimera.net/). Durante este periodo de 4 meses, adquirí experiencia práctica en SEO local y desarrollo de páginas web tanto con WordPress como con Google Sites. Esta experiencia ha ampliado significativamente mis conocimientos y habilidades en áreas clave del desarrollo web.
+
+En febrero y marzo de 2025, realicçe mi FP Dual en [DEDITEC Desarrollos Digitales y Tecnológicos](https://deditec.es/). Durante este periodo de 4 meses, adquirí experiencia práctica en SEO local y desarrollo de páginas web tanto con WordPress como con Google Sites. Esta experiencia ha ampliado significativamente mis conocimientos y habilidades en áreas clave del desarrollo web.
 
 
 
