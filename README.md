@@ -1,43 +1,64 @@
-# ¡Bienvenido a mi GitHub! 👋
+# 🚀 ¡Bienvenido a mi GitHub! 👋  
 
-¡Hola! Soy Sergio, estudiante de FP de Diseño de Aplicaciones Multiplataforma (DAM) en el [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) de Jaén y recien titulado del FP en Administración de Sistemas Informáticos en Red (ASIR) en el [IES Los Cerros](https://loscerros.org/) de Úbeda. Estoy emocionado de compartir mi viaje de aprendizaje y desarrollo con la comunidad de GitHub.
+¡Hola! Soy **Sergio Trillo**, **desarrollador Front-End** con experiencia en **optimización web, SEO y desarrollo con WordPress, Bootstrap y JavaScript**. Actualmente, estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) de Jaén y soy titulado en **Administración de Sistemas Informáticos en Red (ASIR)** por el [IES Los Cerros](https://loscerros.org/) de Ûbeda.  
 
-## Sobre mí
+---
 
-- 📍 Ubicación: Úbeda, España.
-- 🎓 Educación: Titulado en FP de Grado Superior en Administración de Sistemas Informáticos en Red (ASIR) y estudiante de 1er año de FP de Grado Superior en Diseño de Aplicaciones Multiplataforma (DAM).
-- 💼 Experiencia: Programador Front-End en [Trigenius.pt](https://www.trigenius.pt/) gracias a una beca Erasmus y Analista de Posicionamiento Web tanto en [LaPrimera.net Agencia](https://laprimera.net/) como parte de mi FCT como en [DEDITEC Desarrollos Digitales y Tecnológicos](https://deditec.es/).
-- 🌱 Conocimientos Técnicos: Destaco habilidades en HTML, CSS, JavaScript, PHP, XML, MySQL y el framework Bootstrap 5.
-- 🚀 En constante aprendizaje y buscando oportunidades para crecer como profesional en el campo de la tecnología.
+## 🎯 Sobre mí  
 
-## Mis Proyectos
+- 📍 **Ubicación:** Ûbeda, España  
+- 🎓 **Formación:**  
+  - Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**  
+  - Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+- 🎼 **Experiencia Profesional:**  
+  - **Especialista en SEO y Optimización Web** en [LaPrimera.net Agencia](https://laprimera.net/) y [DEDITEC](https://deditec.es/)  
+  - **Desarrollador Front-End** en [Trigenius.pt](https://www.trigenius.pt/)  
+- 🚀 **En constante aprendizaje** en **Ciberseguridad** (Cisco CCST) y nuevas tendencias en desarrollo web  
 
-En junio del 2024, acabé el desarrollo de mi proyecto final como parte de mi formación en ASIR. Este proyecto, alojado en el siguiente directorio [sergiitrgames.com.es](https://sergiitrgames.com.es/), es un escaparate de mis habilidades y conocimientos en el desarrollo web. 
-A lo largo de este trabajo, he aplicado diversas técnicas y herramientas adquiridas durante mi formación, incluyendo HTML5, CSS3, JavaScript y PHP junto con el framework Bootstrap5, así como la gestión de bases de datos MySQL. Cada uno de estos elementos ha sido fundamental para el desarrollo de una plataforma funcional y estéticamente atractiva.
+---
 
+## 💻 Mis Proyectos  
 
+### 🌐 [SergiitrGames.com.es](https://sergiitrgames.com.es/)  
+- **Tecnologías:** HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap 5  
+- **Descripción:** Proyecto final de ASIR, donde desarrollé una plataforma web con diseño responsivo y optimización SEO  
 
-## Experiencia Profesional
+---
 
-Mi experiencia como programador Front-End en [Trigenius.pt](https://trigenius.pt/) fue fundamental para mi desarrollo profesional. Durante mi estancia de 3 meses durante el verano del 2023, tuve la oportunidad de trabajar en proyectos desafiantes y colaborar con un equipo multidisciplinario. Esta experiencia me ha brindado una comprensión más profunda del desarrollo web y me ha preparado para los desafíos futuros.
+## 🏢 Experiencia Profesional  
 
-De marzo a junio de 2024, realicçe mi Formación en Centros de Trabajo (FCT) en [LaPrimera.net Agencia](https://laprimera.net/). Durante este periodo de 4 meses, adquirí experiencia práctica en SEO local y desarrollo de páginas web tanto con WordPress como con Google Sites. Esta experiencia ha ampliado significativamente mis conocimientos y habilidades en áreas clave del desarrollo web.
+### 📍 **Especialista en SEO y Desarrollo Web | LaPrimera.net y DEDITEC** *(2024 - 2025)*  
+- Implementación de estrategias **SEO técnico** para mejorar la visibilidad y posicionamiento web  
+- Optimización de sitios con **WordPress, Elementor y Google Sites**  
 
-En febrero y marzo de 2025, realicçe mi FP Dual en [DEDITEC Desarrollos Digitales y Tecnológicos](https://deditec.es/). Durante este periodo de 4 meses, adquirí experiencia práctica en SEO local y desarrollo de páginas web tanto con WordPress como con Google Sites. Esta experiencia ha ampliado significativamente mis conocimientos y habilidades en áreas clave del desarrollo web.
+### 📍 **Desarrollador Front-End | Trigenius.pt** *(2023)*  
+- Desarrollo y optimización de interfaces web con **HTML, CSS, JavaScript, PHP y Bootstrap 5**  
+- Trabajo en equipo en un entorno internacional gracias a una **Beca Erasmus KA131**  
 
+---
 
+## 🔧 Habilidades Técnicas  
 
-## Conocimientos Adicionales
+- **Lenguajes:** JavaScript, PHP, HTML, CSS, XML, Kotlin, SASS  
+- **Frameworks & CMS:** Bootstrap, WordPress, Elementor  
+- **SEO & Marketing Digital:** SEO Técnico, SEM, Google Analytics  
+- **Bases de Datos:** MySQL  
+- **Ciberseguridad:** Cisco CCST, Redes, Seguridad en Sistemas  
 
-Además de mis habilidades en desarrollo web y las adquiridas de mi formación en ASIR, también tengo conocimientos en Kotlin y SASS, obtenidos a través cursos complementarios.
+---
 
-## Reconocimientos y Premios
+## 🏆 Reconocimientos  
 
-- 🏆 **Campeón Provincial Escolar Jaén sub 16 - Ajedrez**  
-  Expedida por la Delegación Jiennense de Ajedrez · feb. 2016
+- 🏅 **Campeón Provincial Escolar Jaén sub 16 - Ajedrez** *(2016)*  
 
-## Contacto
+---
 
-¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Si deseas contactarme, puedes hacerlo a través de [mi correo electrónico](mailto:sergiotrillorodriguez123@gmail.com) o visitar [mi perfil de LinkedIn](https://www.linkedin.com/in/sergiitr11). Estoy deseando conectar contigo.
+## 📩 Contacto  
 
-¡Gracias por visitar mi GitHub! Espero que encuentres útiles mis proyectos y contribuciones. 😊
+- 📧 [Email](mailto:sergiotrillorodriguez123@gmail.com)  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/sergiitr11)  
+- 💻 [GitHub](https://github.com/sergiitr)  
+
+---
+
+🔥 **Siempre abierto a nuevas oportunidades y colaboraciones en proyectos de desarrollo web y SEO. ¡Hablemos!** 🚀
