@@ -31,7 +31,7 @@
 - Implementación de estrategias **SEO técnico** avanzadas en WordPress y Elementor.
 - Optimización de arquitectura web, contenido y SEO técnico para mejorar el posicionamiento y el tráfico orgánico.
 
-### 📍 **Especialista en SEO y Desarrollo Web | [LaPrimera.net Agencia](https://laprimera.net/) ** *(03/2024 - 06/2024)*  
+### 📍 **Especialista en SEO y Desarrollo Web | [LaPrimera.net Agencia](https://laprimera.net/)** *(03/2024 - 06/2024)*  
 - Implementación de estrategias **SEO técnico** para mejorar la visibilidad y posicionamiento web  
 - Optimización de sitios con **WordPress, Elementor y Google Sites**  
 
