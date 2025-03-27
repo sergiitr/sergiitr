@@ -35,7 +35,7 @@
 - Implementación de estrategias **SEO técnico** para mejorar la visibilidad y posicionamiento web  
 - Optimización de sitios con **WordPress, Elementor y Google Sites**  
 
-### 📍 **Desarrollador Front-End | [Trigenius.pt](https://trigenius.pt/)** *(2023)*  
+### 📍 **Desarrollador Front-End | [Trigenius.pt](https://trigenius.pt/)** *(06/2023 - 08/2023)*  
 - Desarrollo y optimización de interfaces web con **HTML, CSS, JavaScript, PHP y Bootstrap 5**  
 - Trabajo en equipo en un entorno internacional gracias a una **Beca Erasmus KA131**  
 
