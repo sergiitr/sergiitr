@@ -1,12 +1,12 @@
 # 🚀 ¡Bienvenido a mi GitHub! 👋  
 
-¡Hola! Soy **Sergio Trillo**, **desarrollador Front-End** con experiencia en **optimización web, SEO y desarrollo con WordPress, Bootstrap y JavaScript**. Actualmente, estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) de Jaén y soy titulado en **Administración de Sistemas Informáticos en Red (ASIR)** por el [IES Los Cerros](https://loscerros.org/) de Ûbeda.  
+¡Hola! Soy **Sergio Trillo**, **desarrollador Front-End** con experiencia en **optimización web, SEO y desarrollo con WordPress, Bootstrap y JavaScript**. Actualmente, estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) de Jaén y soy titulado en **Administración de Sistemas Informáticos en Red (ASIR)** por el [IES Los Cerros](https://loscerros.org/) de Úbeda.  
 
 ---
 
 ## 🎯 Sobre mí  
 
-- 📍 **Ubicación:** Ûbeda, España  
+- 📍 **Ubicación:** Úbeda, España  
 - 🎓 **Formación:**  
   - Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)**  
   - Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
@@ -14,6 +14,10 @@
   - **Especialista en SEO y Optimización Web** en [LaPrimera.net Agencia](https://laprimera.net/) y [DEDITEC](https://deditec.es/)  
   - **Desarrollador Front-End** en [Trigenius.pt](https://www.trigenius.pt/)  
 - 🚀 **En constante aprendizaje** en **Ciberseguridad** (Cisco CCST) y nuevas tendencias en desarrollo web  
+- 🗣 **Idiomas:**  
+  - Español (Nativo)  
+  - Inglés (B1)  
+  - Francés (B1)  
 
 ---
 
