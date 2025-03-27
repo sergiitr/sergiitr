@@ -27,11 +27,15 @@
 
 ## 🏢 Experiencia Profesional  
 
-### 📍 **Especialista en SEO y Desarrollo Web | LaPrimera.net y DEDITEC** *(2024 - 2025)*  
+### 📍 **Especialista en SEO y Desarrollo Web | [DEDITEC Desarrollos Digitales y Tecnológicos](https://deditec.es/)** *(02/2025 - 03/2025)*  
+- Implementación de estrategias **SEO técnico** avanzadas en WordPress y Elementor.
+- Optimización de arquitectura web, contenido y SEO técnico para mejorar el posicionamiento y el tráfico orgánico.
+
+### 📍 **Especialista en SEO y Desarrollo Web | [LaPrimera.net Agencia](https://laprimera.net/) ** *(03/2024 - 06/2024)*  
 - Implementación de estrategias **SEO técnico** para mejorar la visibilidad y posicionamiento web  
 - Optimización de sitios con **WordPress, Elementor y Google Sites**  
 
-### 📍 **Desarrollador Front-End | Trigenius.pt** *(2023)*  
+### 📍 **Desarrollador Front-End | [Trigenius.pt](https://trigenius.pt/)** *(2023)*  
 - Desarrollo y optimización de interfaces web con **HTML, CSS, JavaScript, PHP y Bootstrap 5**  
 - Trabajo en equipo en un entorno internacional gracias a una **Beca Erasmus KA131**  
 
