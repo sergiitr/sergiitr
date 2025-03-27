@@ -27,7 +27,7 @@
 
 ## 🏢 Experiencia Profesional  
 
-### 📍 **Especialista en SEO y Desarrollo Web | [DEDITEC Desarrollos Digitales y Tecnológicos](https://deditec.es/)** *(02/2025 - 03/2025)*  
+### 📍 **Especialista en SEO y Desarrollo Web | [DEDITEC](https://deditec.es/)** *(02/2025 - 03/2025)*  
 - Implementación de estrategias **SEO técnico** avanzadas en WordPress y Elementor.
 - Optimización de arquitectura web, contenido y SEO técnico para mejorar el posicionamiento y el tráfico orgánico.
 
