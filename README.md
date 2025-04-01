@@ -21,14 +21,6 @@
 
 ---
 
-## 💻 Mis Proyectos  
-
-### 🌐 [SergiitrGames.com.es](https://sergiitrgames.com.es/)  
-- **Tecnologías:** HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap 5  
-- **Descripción:** Proyecto final de ASIR, donde desarrollé una plataforma web con diseño responsivo y optimización SEO  
-
----
-
 ## 🏢 Experiencia Profesional  
 
 ### 📍 **Especialista en SEO y Desarrollo Web | [DEDITEC](https://deditec.es/)** *(02/2025 - 03/2025)*  
@@ -45,16 +37,6 @@
 
 ---
 
-## 🔧 Habilidades Técnicas  
-
-- **Lenguajes:** JavaScript, PHP, HTML, CSS, XML, Kotlin, SASS  
-- **Frameworks & CMS:** Bootstrap, WordPress, Elementor  
-- **SEO & Marketing Digital:** SEO Técnico, SEM, Google Analytics  
-- **Bases de Datos:** MySQL  
-- **Ciberseguridad:** Cisco CCST, Redes, Seguridad en Sistemas  
-
----
-
 ## 🏆 Certificaciones  
 
 - **Ciberseguridad:**  
@@ -65,6 +47,25 @@
 
 
 ---
+
+## 💻 Mis Proyectos  
+
+### 🌐 [SergiitrGames.com.es](https://sergiitrgames.com.es/)  
+- **Tecnologías:** HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap 5  
+- **Descripción:** Proyecto final de ASIR, donde desarrollé una plataforma web con diseño responsivo y optimización SEO  
+
+---
+
+## 🔧 Habilidades Técnicas  
+
+- **Lenguajes:** JavaScript, PHP, HTML, CSS, XML, Kotlin, SASS  
+- **Frameworks & CMS:** Bootstrap, WordPress, Elementor  
+- **SEO & Marketing Digital:** SEO Técnico, SEM, Google Analytics  
+- **Bases de Datos:** MySQL  
+- **Ciberseguridad:** Cisco CCST, Redes, Seguridad en Sistemas  
+
+---
+
 
 ## 🏅 Reconocimientos  
 
