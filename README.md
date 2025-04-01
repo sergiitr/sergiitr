@@ -56,11 +56,13 @@
 ---
 
 ## 🏆 Certificaciones  
-- Ciberseguridad:
--- 📝 [**Cisco Certified Support Technician Cybersecurity**](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=515&cvid=G/TnimhjPJvs+KpOXscAew==)  
 
-- Redes:
--- 📝 [**CCNA: Introduction to Networks**](https://www.credly.com/badges/effc68f1-e9f6-49b6-9509-5de2178fd580/linked_in_profile)  
+- **Ciberseguridad:**  
+  - 📝 [**Cisco Certified Support Technician Cybersecurity**](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=515&cvid=G/TnimhjPJvs+KpOXscAew==)  
+
+- **Redes:**  
+  - 📝 [**CCNA: Introduction to Networks**](https://www.credly.com/badges/effc68f1-e9f6-49b6-9509-5de2178fd580/linked_in_profile)  
+
 
 ---
 
