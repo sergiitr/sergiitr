@@ -41,7 +41,7 @@
 
 - **Ciberseguridad:**  
   - 📝 [**Cisco Certified Support Technician Cybersecurity**](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=515&cvid=G/TnimhjPJvs+KpOXscAew==)  
-  - 📝 [**Pearson: IT Specialist - Cybersecurity**]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=515&cvid=G/TnimhjPJvs+KpOXscAew==](https://www.credly.com/badges/5305dd55-9527-4832-8106-5a5a2b301bdc)
+  - 📝 [**Pearson: IT Specialist - Cybersecurity**](https://www.credly.com/badges/5305dd55-9527-4832-8106-5a5a2b301bdc)
 - **Redes:**  
   - 📝 [**CCNA: Introduction to Networks**](https://www.credly.com/badges/effc68f1-e9f6-49b6-9509-5de2178fd580/linked_in_profile)  
 
