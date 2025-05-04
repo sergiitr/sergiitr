@@ -46,13 +46,6 @@
   - 📝 [**CCNA: Introduction to Networks**](https://www.credly.com/badges/effc68f1-e9f6-49b6-9509-5de2178fd580/linked_in_profile)  
 
 
----
-
-## 💻 Mis Proyectos  
-
-### 🌐 [SergiitrGames.com.es](https://sergiitrgames.com.es/)  
-- **Tecnologías:** HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap 5  
-- **Descripción:** Proyecto final de ASIR, donde desarrollé una plataforma web con diseño responsivo y optimización SEO  
 
 ---
 
