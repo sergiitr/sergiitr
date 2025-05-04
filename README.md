@@ -58,11 +58,12 @@
 
 ## 🔧 Habilidades Técnicas  
 
-- **Lenguajes:** JavaScript, PHP, HTML, CSS, XML, Kotlin, SASS  
+- **Lenguajes de programacion:** Java, JavaScript, PHP, XML, Kotlin
+- **Tecnologías web:** HTML, CSS, SASS
 - **Frameworks & CMS:** Bootstrap, WordPress, Elementor  
 - **SEO & Marketing Digital:** SEO Técnico, SEM, Google Analytics  
 - **Bases de Datos:** MySQL  
-- **Ciberseguridad:** Cisco CCST, Redes, Seguridad en Sistemas  
+- **Ciberseguridad:** Protección contra ataques, Gestión de vulnerabilidades y parches con certificaciones [**CCST**](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=515&cvid=G/TnimhjPJvs+KpOXscAew==) y [**Pearson: IT Specialist - Cybersecurity**]((https://www.credly.com/badges/5305dd55-9527-4832-8106-5a5a2b301bdc)
 
 ---
 
