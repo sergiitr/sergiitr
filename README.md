@@ -63,7 +63,7 @@
 - **Frameworks & CMS:** Bootstrap, WordPress, Elementor  
 - **SEO & Marketing Digital:** SEO Técnico, SEM, Google Analytics  
 - **Bases de Datos:** MySQL  
-- **Ciberseguridad:** Protección contra ataques, Gestión de vulnerabilidades y parches con certificaciones [**CCST**](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=515&cvid=G/TnimhjPJvs+KpOXscAew==) y  [**Pearson: IT Specialist - Cybersecurity**]([https://www.credly.com/badges/effc68f1-e9f6-49b6-9509-5de2178fd580/linked_in_profile])
+- **Ciberseguridad:** Protección contra ataques, Gestión de vulnerabilidades y parches con certificaciones [**CCST**](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=515&cvid=G/TnimhjPJvs+KpOXscAew==) y [**Pearson: IT Specialist - Cybersecurity**](https://www.credly.com/badges/5305dd55-9527-4832-8106-5a5a2b301bdc)
 
 ---
 
