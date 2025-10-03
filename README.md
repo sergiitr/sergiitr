@@ -16,7 +16,7 @@
 - 🚀 **En constante aprendizaje** en **Ciberseguridad** (Cisco CCST) y nuevas tendencias en desarrollo web  
 - 🗣 **Idiomas:**  
   - Español (Nativo)  
-  - Inglés (B1)  
+  - Inglés (B2)  
   - Francés (B1)  
 
 ---
