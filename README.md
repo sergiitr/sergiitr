@@ -49,9 +49,10 @@ Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES
 
 ## 🔧 Habilidades Técnicas
 
-| Lenguajes | Tecnologías Web | Frameworks & CMS | SEO & Marketing | Bases de Datos | Ciberseguridad |
-|-----------|----------------|-----------------|----------------|----------------|----------------|
-| Java, JavaScript, PHP, Kotlin, XML | HTML, CSS, SASS | Bootstrap, WordPress, Elementor | SEO técnico, SEM, Google Analytics | MySQL | Gestión de vulnerabilidades, Protección contra ataques, CCST |
+| Lenguajes | Tecnologías Web | Frameworks & CMS | SEO & Marketing | Bases de Datos | Ciberseguridad | Control de Versiones |
+|-----------|----------------|-----------------|----------------|----------------|----------------|-------------------|
+| Java, JavaScript, PHP, Kotlin, XML | HTML, CSS, SASS | Bootstrap, WordPress, Elementor | SEO técnico, SEM, Google Analytics | MySQL | Gestión de vulnerabilidades, Protección contra ataques, CCST | Git |
+
 
 ---
 
