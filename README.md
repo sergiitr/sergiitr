@@ -15,9 +15,9 @@
   - **Desarrollador Front-End** en [Trigenius.pt](https://www.trigenius.pt/)  
 - 🚀 **En constante aprendizaje** en **Ciberseguridad** (Cisco CCST) y nuevas tendencias en desarrollo web  
 - 🗣 **Idiomas:**  
-  - Español (Nativo)  
-  - Inglés (B2)  
-  - Francés (B1)  
+  - 🇪🇸 Español (Nativo)  
+  - 🇬🇧 Inglés (B2 Trinity)  
+  - 🇫🇷 Francés (B1 Escuela de Idiomas)  
 
 ---
 
