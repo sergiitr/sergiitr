@@ -49,10 +49,35 @@ Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES
 
 ## 🔧 Habilidades Técnicas
 
-| Lenguajes | Tecnologías Web | Frameworks & CMS | SEO & Marketing | Bases de Datos | Ciberseguridad | Control de Versiones |
-|-----------|----------------|-----------------|----------------|----------------|----------------|-------------------|
-| Java, JavaScript, PHP, Kotlin, XML | HTML, CSS, SASS | Bootstrap, WordPress, Elementor | SEO técnico, SEM, Google Analytics | MySQL | Gestión de vulnerabilidades, Protección contra ataques, CCST | Git |
+**Lenguajes de Programación**  
+- JavaScript ![65%](https://progress-bar.dev/70/)  
+- Java ![60%](https://progress-bar.dev/60/)  
+- PHP ![50%](https://progress-bar.dev/65/)  
+- Kotlin ![25%](https://progress-bar.dev/50/)  
+- XML ![30%](https://progress-bar.dev/50/)  
 
+**Web & Frameworks**  
+- HTML ![80%](https://progress-bar.dev/90/)  
+- CSS ![75%](https://progress-bar.dev/85/)  
+- SASS ![30%](https://progress-bar.dev/70/)  
+- Bootstrap ![75%](https://progress-bar.dev/80/)  
+- WordPress ![60%](https://progress-bar.dev/75/)  
+- Elementor ![50%](https://progress-bar.dev/70/)  
+
+**SEO & Marketing Digital**  
+- SEO Técnico ![65%](https://progress-bar.dev/80/)  
+- SEM ![50%](https://progress-bar.dev/70/)  
+- Google Analytics ![65%](https://progress-bar.dev/75/)  
+
+**Bases de Datos**  
+- MySQL ![65%](https://progress-bar.dev/65/)  
+
+**Ciberseguridad**  
+- Gestión de vulnerabilidades ![40%](https://progress-bar.dev/60/)  
+- Protección contra ataques ![45%](https://progress-bar.dev/65/)  
+
+**Control de Versiones**  
+- Git ![50%](https://progress-bar.dev/80/)  
 
 ---
 
