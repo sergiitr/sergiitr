@@ -25,7 +25,7 @@ Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES
 - Estrategias de SEO técnico y optimización de sitios con WordPress, Elementor y Google Sites  
 
 ### 📌 [Trigenius.pt](https://www.trigenius.pt/) — Desarrollador Front-End *(Jun 2023 - Ago 2023)*
-- Desarrollo de interfaces con HTML, CSS, JS, PHP y Bootstrap 5  
+- Programador Front-End con HTML, CSS, JS, PHP y Bootstrap 5  
 - Trabajo internacional gracias a **Beca Erasmus KA131**  
 
 ---
