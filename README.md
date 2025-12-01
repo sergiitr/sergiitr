@@ -43,8 +43,8 @@ Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES
 ## 🔧 Habilidades Técnicas
 
 ### 🖥 Lenguajes de Programación
-- **JavaScript:** ███████░░░ 65%  
-- **Java:** ██████░░░░ 60%  
+- **JavaScript:** ████░░░░░░ 40%  
+- **Java:** ████░░░░░░ 40% 
 - **PHP:** █████░░░░░ 50%  
 - **Kotlin:** ██░░░░░░░ 25%  
 - **XML:** ███░░░░░░ 30%
