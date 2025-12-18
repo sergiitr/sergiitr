@@ -1,14 +1,14 @@
 # 🚀 ¡Hola, soy Sergio Trillo! 👋
 
 Soy **Desarrollador Front-End** con pasión por **SEO, optimización web y desarrollo en WordPress, Bootstrap y JavaScript**.  
-Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) y soy titulado en **ASIR** por el [IES Los Cerros](https://loscerros.org/).
+Actualmente estudio **2º Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) y soy titulado en **ASIR** por el [IES Los Cerros](https://loscerros.org/).
 
 ---
 
 ## 🎯 Sobre mí
 
 📍 **Ubicación:** Úbeda, España  
-🎓 **Formación:** Técnico Superior en **ASIR** | Estudiante de **DAM**  
+🎓 **Formación:** Técnico Superior en **ASIR** | Estudiante de **2º DAM**  
 💼 **Experiencia:** SEO & Optimización Web en [LaPrimera.net](https://laprimera.net/) y [DEDITEC](https://deditec.es/), Front-End en [Trigenius.pt](https://www.trigenius.pt/)  
 🚀 **Aprendizaje continuo:** Ciberseguridad (Cisco CCST) y tendencias web  
 🗣 **Idiomas:** 🇪🇸 Español (Nativo) | 🇬🇧 Inglés (B2 Trinity) | 🇫🇷 Francés (B1)  
@@ -40,6 +40,21 @@ Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES
   - [CCNA: Introduction to Networks](https://www.credly.com/badges/effc68f1-e9f6-49b6-9509-5de2178fd580/linked_in_profile)  
 
 ---
+## 🚀 Proyectos Destacados
+
+### [👕 Proyecto Camisetas Spring](https://github.com/sergiitr/ProyectoCamisetasSpring)
+- E-commerce sencillo de gestión de stock desarrollado con Spring Boot.
+- Tecnologías: Java, Spring Boot, Spring Security, Thymeleaf y MySQL.
+- Funcionalidades: Gestión completa de inventario (CRUD), sistema de autenticación de usuarios y diseño responsivo.
+- Lo que aprendí: Implementación de arquitecturas MVC y seguridad en aplicaciones web robustas.
+
+### [📊 Excel2Database](https://github.com/sergiitr/Excel2Database)
+- Herramienta de automatización para la migración de datos.
+- Tecnologías: Java (enfocado a lógica de datos).
+- Funcionalidades: Conversión automatizada de archivos Excel (.xlsx) a scripts de inserción SQL o carga directa en base de datos.
+- Lo que aprendí: Manipulación de flujos de datos complejos y optimización de tareas administrativas de sistemas.
+
+---
 
 ## 🔧 Habilidades Técnicas
 
@@ -57,7 +72,8 @@ Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES
 - **SASS:** ███░░░░░░ 30%  
 - **Bootstrap:** ████████░░ 75%  
 - **WordPress:** ██████░░░░ 60%  
-- **Elementor:** █████░░░░░ 50%  
+- **Elementor:** █████░░░░░ 50%
+- **Spring Boot:** ███░░░░░░ 30% 
 
 ### 📊 SEO & Marketing Digital
 - **SEO Técnico:** ███████░░░ 65%  
