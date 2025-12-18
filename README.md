@@ -1,7 +1,7 @@
 # 🚀 ¡Hola, soy Sergio Trillo! 👋
 
-Soy **Desarrollador Front-End** con pasión por **SEO, optimización web y desarrollo en WordPress, Bootstrap y JavaScript**.  
-Actualmente estudio **2º Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) y soy titulado en **ASIR** por el [IES Los Cerros](https://loscerros.org/).
+Soy **Tecnico Informático** con pasión por **SEO, optimización web y desarrollo back-end**.  
+Actualmente estudio **2º Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES Virgen del Carmen](https://www.iesvirgendelcarmen.com/) y soy titulado en **Administración de Sistemas Informáticos en Red (ASIR)** por el [IES Los Cerros](https://loscerros.org/).
 
 ---
 
