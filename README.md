@@ -10,7 +10,6 @@ Actualmente estudio **2º Desarrollo de Aplicaciones Multiplataforma (DAM)** en 
 📍 **Ubicación:** Úbeda, España  
 🎓 **Formación:** Técnico Superior en **ASIR** | Estudiante de **2º DAM**  
 💼 **Experiencia:** SEO & Optimización Web en [LaPrimera.net](https://laprimera.net/) y [DEDITEC](https://deditec.es/), Front-End en [Trigenius.pt](https://www.trigenius.pt/)  
-🚀 **Aprendizaje continuo:** Ciberseguridad (Cisco CCST) y tendencias web  
 🗣 **Idiomas:** 🇪🇸 Español (Nativo) | 🇬🇧 Inglés (B2 Trinity) | 🇫🇷 Francés (B1)  
 
 ---
