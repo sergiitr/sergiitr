@@ -31,7 +31,8 @@ Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)** en [IES
 ---
 
 ## 🏆 Certificaciones
-
+- **Inteligencia Artificial (IA):**
+  - [Microsoft Azure AI Fundamentals (AI-900)](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=455&cvid=E3DiQ3/0H9ZJjaDpE6wC2Q==)
 - **Ciberseguridad:**  
   - [Cisco Certified Support Technician Cybersecurity](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=515&cvid=G/TnimhjPJvs+KpOXscAew==)  
   - [Pearson: IT Specialist - Cybersecurity](https://www.credly.com/badges/5305dd55-9527-4832-8106-5a5a2b301bdc)  
