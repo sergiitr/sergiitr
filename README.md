@@ -15,6 +15,10 @@ Actualmente estudio **2º Desarrollo de Aplicaciones Multiplataforma (DAM)** en 
 ---
 
 ## 💻 Experiencia Profesional
+### 📌 [HECOMA / INCOYPRE](https://hecoma.com/) — Técnico de Sistemas y Gestión Digital *(Ene 2026 - act)*
+- Gestiono la infraestructura tecnológica y el ecosistema web en WordPress, encargándome del mantenimiento técnico, la seguridad y la optimización de rendimiento.
+- Lidero el soporte IT de Nivel 1 y la resolución de incidencias de red, mientras administro la arquitectura de contenidos digitales y el SEO técnico para maximizar el posicionamiento orgánico. Ejecuto la estrategia de marketing desde una perspectiva de gestión de activos digitales y automatizando la presencia de la marca en canales multiplataforma.
+- Mi rol integra la administración de sistemas con la implementación técnica de soluciones de comunicación y diseño para optimizar la conversión y la operativa interna
 
 ### 📌 [DEDITEC](https://deditec.es/) — Especialista SEO & Desarrollo Web *(Feb 2025 - Mar 2025)*
 - SEO técnico avanzado en WordPress y Elementor  
